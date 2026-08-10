@@ -1,0 +1,72 @@
+Name:
+Piyush Kumar
+
+Email:
+piyushabesit@gmail.com
+
+Mobile:
++91 9868321787
+
+Location:
+Ghaziabad, Uttar Pradesh, India
+
+Education:
+B.Tech in Artificial Intelligence
+AKTU, Lucknow
+Expected Graduation: 2028
+
+Skills:
+- Python
+- SQL
+- Kotlin
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- JWT Authentication
+- REST APIs
+- RAG
+- Vector Databases
+- Semantic Search
+- NLP
+- Git
+- Ollama
+- Jetpack Compose
+
+Projects:
+
+1. VectorForge — AI Vector Database & RAG Engine
+Duration: May 2026 - June 2026
+
+- Developed a vector database and semantic search engine for high-dimensional embedding storage, document retrieval, and AI-powered question answering.
+- Built using Python and FastAPI.
+- Implemented HNSW, KD-Tree, and Brute Force search algorithms.
+- Integrated Ollama, nomic-embed-text, and llama3.2 for Retrieval-Augmented Generation (RAG).
+- Implemented semantic search, vector indexing, and context-aware response generation using local LLMs.
+
+2. Nyay — Legal Case Management App
+Duration: March 2026 - April 2026
+
+- Developed a multi-role Android application for digital legal case filing and case lifecycle management.
+- Built using Kotlin, Jetpack Compose, and Firebase Firestore.
+- Implemented real-time workflow tracking and a structured 5-step case handling system.
+- Added document upload support.
+- Designed to simplify legal case management through workflow transparency, document organization, and status tracking.
+
+3. HabitFlow — Habit Tracking REST API
+Duration: July 2026 - August 2026
+
+- Developed a secure RESTful backend for habit tracking.
+- Implemented user authentication, habit management, progress tracking, and dashboard analytics.
+- Built using FastAPI, PostgreSQL, SQLAlchemy, and JWT Authentication.
+- Implemented protected CRUD APIs.
+- Implemented password hashing using bcrypt.
+- Designed relational database models and database-driven user workflows.
+
+Certifications:
+- HackerRank — Python Programming
+- Infosys Springboard — Programming Fundamentals using Python
+
+Achievements:
+- Built backend systems using FastAPI, PostgreSQL, and JWT Authentication.
+- Solved 150+ coding problems across LeetCode, GeeksforGeeks, and HackerRank.
+- Developed AI-powered applications involving Vector Databases, Semantic Search, and Retrieval-Augmented Generation (RAG).
