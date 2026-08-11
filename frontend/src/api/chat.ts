@@ -1,5 +1,5 @@
-const CHAT_URL = `${import.meta.env.VITE_API_URL}/chat`
 
+const CHAT_URL = `${import.meta.env.VITE_API_URL}/chat`
 interface StreamOptions {
   signal: AbortSignal
   onChunk: (chunk: string) => void
