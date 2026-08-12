@@ -23,6 +23,12 @@ export function Sidebar({ conversations, activeId, isOpen, onClose, onNew, onSel
           </button>,
         )}
       </nav>
+      <a className="resume-download" href="/Piyush_Kumar_Resume.pdf" download="Piyush_Kumar_Resume.pdf" aria-label="Download Piyush Kumar's resume as a PDF">
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M12 3v12" /><path d="m7 10 5 5 5-5" /><path d="M5 21h14" />
+        </svg>
+        <span>Download Resume</span>
+      </a>
       <div className="profile"><div className="profile-avatar">P</div><div><strong>Piyush</strong><small>AI Portfolio</small></div><span className="profile-more">•••</span></div>
     </aside>
   </>
